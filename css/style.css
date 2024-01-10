@@ -1,0 +1,28 @@
+h3 {
+    font-size: 16px;
+    color: red;
+    margin: 20px;
+}
+.nomer1 {
+    margin-bottom: 30px;
+    margin-top: 30px;
+    color: green;
+
+}
+.nomer2 {
+    color: blue;
+    width: 1000px;
+   
+}
+span {
+    color: red;
+    
+}
+.parent {
+    display: flex;
+    flex-direction: row;
+}
+img {
+    width: 500px;
+    height: 250px;
+}
